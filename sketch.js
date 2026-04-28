@@ -38,7 +38,7 @@ function draw() {
   noStroke();
   textSize(24);
   textAlign(CENTER, TOP); // 設定文字對齊方式為置中、靠上
-  text("123456789陳OO", width / 2, 20); // 將文字顯示在畫布中央上方
+  text("414730357林翊涵文字", width / 2, 20); // 將文字顯示在畫布中央上方
   textAlign(LEFT, BASELINE); // 重設文字對齊方式為預設 (左對齊、基線對齊)
 
   // 計算顯示影像的寬高 (整個畫布寬高的 50%)
